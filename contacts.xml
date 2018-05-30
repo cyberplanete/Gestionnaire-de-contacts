@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Eloise</first_name>
+	<last_name>Joret</last_name>
+	<phone_number>0240521132</phone_number>
+	<notes>eloise qui prefere garder son miel pour elle</notes>
+</contact>
+<contact>
+	<first_name>Pascal</first_name>
+	<last_name>Joret</last_name>
+	<phone_number>0650295195</phone_number>
+	<notes>test</notes>
+</contact>
+</contacts>
